@@ -1,24 +1,19 @@
 # Hi there, I'm Khrushjing 👋
 ## 🙋 About Me
-I'm a passionate developer who loves building things and solving problems with code.
-- 🔭 I'm currently working on exciting open-source projects
-- 🌱 I'm currently learning cloud-native development and machine learning
-- 👯 I'm looking to collaborate on interesting open-source initiatives
-- 🤔 I'm looking for help with distributed systems design
-- 💬 Ask me about web development, APIs, and software architecture
-- 📫 How to reach me: feel free to open an issue or connect via GitHub
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I can read code faster than I can read a novel
+I'm a Graduate Student at Wuhan University, deeply passionate about Computer Vision and 3D Scene Reconstruction. I enjoy bridging the gap between cutting-edge research and practical engineering.
+
+- 🔭 I’m currently focusing on **Large-scale Indoor 3D Reconstruction** .
+- 🌱 I’m diving deep into **3D Gaussian Splatting (3DGS)**, **NeRF**, and their applications in indoor environments.
+- 👯 I’m looking to collaborate on open-source projects related to **3D modeling**, **Remote Sensing**, or **AI-driven productivity tools**.
+- 🤔 I’m looking for help with optimizing large-scale scene rendering and distributed environment configuration.
+- 💬 Ask me about **PyTorch3D**, **Panoramic Reconstruction**, **Remote Sensing of Polar Ice Caps**, or **Product Management (AI & Algorithms)**.
+- 📫 Reach me: Open an issue here or connect with me via GitHub.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can read a novel faster than I can read code.
 ---
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
 ## 📊 GitHub Stats
 ![Khrushjing's GitHub stats](https://github-readme-stats.vercel.app/api?username=khrushjing&show_icons=true&theme=radical)
